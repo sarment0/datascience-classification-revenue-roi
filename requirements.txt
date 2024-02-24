@@ -1,0 +1,5 @@
+pandas==2.2.0
+numpy==1.26.3
+folium==0.15.1
+psutil==5.9.8
+scipy==1.12.0
