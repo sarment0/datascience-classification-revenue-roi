@@ -6,18 +6,21 @@ Hello, this is a repository with a Python script designed to extract data from d
 
 1. First, clone this repository.
 2. You must create the directory ./data and get all the CSV files from this link: https://drive.google.com/drive/folders/1ioYOrQobxsGSC-m2V2fJslcALCh2eFnN
-3. in the ./docs directory you have the PDF with more instructions.
-4. in the ./results directory you have the PDF report with my analysis.
-5. Install the required modules:
+3. in the ./results directory you have the PDF report with my analysis.
+4. Install the required modules:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-6. to run your own this script you must run this command:
+5. to run your own this script you must run this command:
 
 ```bash
 python app.py
 ```
 
-7. If you want to run the memory profiler and get the memory usage use the -m or --memory argument (eg. python app.py --memory)
+6. If you want to run the memory profiler and get the memory usage use the -m or --memory argument
+
+```bash
+python app.py --memory
+```
