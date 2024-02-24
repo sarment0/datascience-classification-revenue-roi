@@ -1,6 +1,6 @@
 # Readme Seazone Data Challenge 📜
 
-Hello, this is a repository with a Python script designed to extract data from different datasets, performing a statistical cross-analysis among various sources and providing two outputs to support the thesis argument on the best location for constructing a building with 50 apartments.
+Hello, this is a repository with a Python script designed to extract data from different datasets, performing a statistical cross-analysis among various sources and providing two outputs to support the thesis argument on the best location for constructing a building with 50 apartments in Itapema - Santa Cataria - Brazil.
 
 ## How to run? Instructions ☕️
 
