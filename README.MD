@@ -24,3 +24,5 @@ python app.py
 ```bash
 python app.py --memory
 ```
+
+7. After you run the project you can check the output directory and open the file map.html it has the demonstration of extracted data in a Map.
